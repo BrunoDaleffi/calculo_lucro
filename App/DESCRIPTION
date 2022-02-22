@@ -1,5 +1,5 @@
-Package: calculo_lucro
-Title: calculo_lucro
+Package: calcnotas
+Title: Calculadora de emissao de notas
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "firstname",

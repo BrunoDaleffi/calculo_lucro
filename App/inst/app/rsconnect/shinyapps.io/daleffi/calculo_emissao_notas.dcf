@@ -1,0 +1,13 @@
+name: calculo_emissao_notas
+title: calculo_emissao_notas
+username:
+account: daleffi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5710027
+bundleId: 5606143
+url: https://daleffi.shinyapps.io/calculo_emissao_notas/
+when: 1645547887.50161
+lastSyncTime: 1645547887.50165
+asMultiple: FALSE
+asStatic: FALSE

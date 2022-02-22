@@ -5,9 +5,9 @@ account: daleffi
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5710027
-bundleId: 5606143
+bundleId: 5606161
 url: https://daleffi.shinyapps.io/calculo_emissao_notas/
-when: 1645547887.50161
-lastSyncTime: 1645547887.50165
+when: 1645548201.35821
+lastSyncTime: 1645548201.35823
 asMultiple: FALSE
 asStatic: FALSE

@@ -1,0 +1,36 @@
+Package: calculo_lucro
+Title: calculo_lucro
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "firstname",
+           family = "lastname",
+           role = c("aut", "cre"),
+           email = "your@email.com")
+Description: What the package does (one paragraph).
+License: GPL-3
+Imports:
+    magrittr,
+    config,
+    golem,
+    shiny,
+    dplyr,
+    shinydashboard,
+    shinyWidgets,
+    googlesheets4,
+    lubridate,
+    purrr,
+    reactable,
+    scales,
+    shinycssloaders,
+    stringr,
+    tidyr
+Remotes: 
+    curso-r/auth0,
+    terranova/vistrnv,
+    terranova/highcharter,
+    terranova/montila
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)

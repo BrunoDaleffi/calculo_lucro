@@ -1,0 +1,7 @@
+name: calculo_lucro
+remote_url: 'https://daleffi.shinyapps.io/calculo_lucro'
+auth0_config:
+  api_url: 'https://daleffi.us.auth0.com'
+credentials:
+  key: 'bnP0NqpCW23vWDOuUMdtBFoIYyyk55Bt'
+secret: '2ANE4kTy_q0rJlyX7UeC6izQQ3RmWW725Q4erFSaPqBCR6yUaHEc80FM4Rle9gN0'
